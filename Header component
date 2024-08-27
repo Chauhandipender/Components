@@ -1,0 +1,18 @@
+//Header format
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="flex w-full h-[13vh] bg-slate-500 items-center space-x-[50vw]">
+  <div id="logo" class="w-[6vw]">
+    <button class="relative left-[2vw]">
+      <img class="rounded-full" src="https://media.istockphoto.com/id/1313644269/vector/gold-and-silver-circle-star-logo-template.jpg?s=612x612&w=0&k=20&c=hDqCI9qTkNqNcKa6XS7aBim7xKz8cZbnm80Z_xiU2DI=" alt="error">
+    </button>
+  </div>
+  <div class="flex space-x-12">
+    <button class="hover:text-white">Home</button>
+    <button class="hover:text-white">About</button>
+    <button class="hover:text-white">Contact</button>
+    <button class="hover:bg-slate-100 h-[8vh] w-[8vh] rounded-full transition duration-300 ease-in-out relative right-5" aria-label="Menu"><i class="fa fa-bars"></i></button>
+  </div>
+</div>
