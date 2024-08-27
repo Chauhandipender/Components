@@ -1,0 +1,10 @@
+//Navigation bar
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="flex w-[70vw] h-[10vh] bg-slate-500 rounded-lg relative left-28 top-14 justify-center items-center space-x-20">
+  <button class="hover:bg-slate-100 h-[8vh] w-[8vh] rounded-full transition duration-300 ease-in-out" aria-label="Home"><i class="fa fa-home"></i></button>
+  <button class="hover:bg-slate-100 h-[8vh] w-[8vh] rounded-full transition duration-300 ease-in-out" aria-label="Search"><i class="fa fa-search"></i></button>
+  <button class="hover:bg-slate-100 h-[8vh] w-[8vh] rounded-full transition duration-300 ease-in-out" aria-label="Menu"><i class="fa fa-bars"></i></button>
+  <button class="hover:bg-slate-100 h-[8vh] w-[8vh] rounded-full transition duration-300 ease-in-out" aria-label="Trash"><i class="fa fa-trash"></i></button>
+</div>
