@@ -1,0 +1,23 @@
+<div class="flex h-[20vh] w-full bg-slate-500 space-x-8 items-center justify-evenly">
+  <div>
+    <button class="w-[30vw] text-xs flex flex-col items-center space-y-1">
+      <img class="rounded-lg w-[10vw]" src="https://cdn.pixabay.com/photo/2017/03/19/20/19/ball-2157465_640.png" alt="error">
+      <p>&copy; Copyright 2023. All Rights Reserved.</p>
+      </button>
+  </div>
+  <div class="flex flex-col space-y-1">
+    <button class="hover:text-white">Home</button>
+    <button class="hover:text-white">About</button>
+    <button class="hover:text-white">Contact</button>
+  </div>
+  <div class="flex flex-col space-y-1">
+    <button class="hover:text-white">Licensing</button>
+    <button class="hover:text-white">Registration</button>
+    <button class="hover:text-white">Rights</button>
+  </div>
+  <div class="flex flex-col space-y-1">
+    <button class="hover:text-white">Terms &amp Condition</button>
+    <button class="hover:text-white">Privacy Policy</button>
+    <button class="hover:text-white">Customer Support</button>
+  </div>
+</div>
